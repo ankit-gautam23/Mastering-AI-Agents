@@ -83,7 +83,7 @@ A comprehensive guide to understanding, building, and deploying AI agents. This 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/mastering-ai-agents.git
+git clone https://github.com/ankit-gautamp23/mastering-ai-agents.git
 cd mastering-ai-agents
 ```
 
